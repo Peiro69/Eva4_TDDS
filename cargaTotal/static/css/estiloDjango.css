@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(188, 194, 216);
+}
+
+.opciones{
+    color: black;
+    text-decoration: none;
+}
+
+.contenedor{
+    text-align: right;
+}
+
+.contenedor a{
+    max-width: 80%;
+    margin-right: 100px;
+}
